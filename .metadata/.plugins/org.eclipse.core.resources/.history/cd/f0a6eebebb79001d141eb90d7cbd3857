@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="ISO-8859-1">
+		<title>Insert title here</title>
+	</head> 
+	<style> 
+
+		h1{
+			text-align:center;
+		}
+	
+		.robot{
+			background-color:purple;
+		}
+	
+	</style>
+	<body>
+		<h1>Robot Friend</h1>
+		<div class="robot"></div>
+	</body>
+</html>

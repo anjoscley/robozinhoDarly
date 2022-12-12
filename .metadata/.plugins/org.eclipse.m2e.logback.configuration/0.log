@@ -1,0 +1,5 @@
+2022-12-11 21:48:02,561 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @2049812ms
+2022-12-11 21:48:03,086 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.13.v20150730
+2022-12-11 21:48:03,259 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7b609fa2{/wse,null,AVAILABLE}
+2022-12-11 21:48:03,540 [main] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@ace5f3b{HTTP/1.1}{0.0.0.0:63566}
+2022-12-11 21:48:03,541 [main] INFO  org.eclipse.jetty.server.Server - Started @2050800ms
