@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="ISO-8859-1">
+		<title>Insert title here</title>
+	</head> 
+	<style> 
+
+		h1{
+			text-align:center;
+		}
+	
+		.robot{
+			background-color:purple;
+		}
+	
+		#head{
+			height:150px;
+			width:200px;
+			border-radius:95px 95px 0px 0px;
+		}
+		
+		.eyes{
+			background-color:white;
+		
+		}
+		
+	</style>
+	<body>
+		<h1>Robozinho Darly</h1>
+		<div id="head" class="robot">		
+			<div class="eyes">
+		
+			</div>
+			<div class="eyes">
+			
+			</div>>		
+		</div>
+	</body>
+</html>

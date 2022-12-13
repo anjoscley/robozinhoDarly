@@ -14,14 +14,44 @@
 			background-color:purple;
 		}
 	
-		div{
-			height:100px;
-			width:100px;
+		#head{
+			height:150px;
+			width:200px;
+			border-radius:95px 95px 0px 0px;
+		}
+		
+		#eyes{
+			position:relative;
+			top:90px;
+			display:flex;
+		}
+		
+		.eye{
+			position:relative;
+			background-color:white;
+			height:20px;
+			width:20px;
+			border-radius:15px;
+		}
+		
+		#left-eye{
+			left:50px;
+		}
+		
+		#right-eye{
+			left:110px;	
 		}
 		
 	</style>
 	<body>
-		<h1>Robot Friend</h1>
-		<div id="head" class="robot"></div>
+		<h1>Robozinho Darly</h1>
+		<div id="head" class="robot">		
+			<div id="eyes">
+				<div id="left-eye" class="eye">
+				</div>
+				<div id="right-eye" class="eye">
+				</div>
+			</div>		
+		</div>
 	</body>
 </html>
